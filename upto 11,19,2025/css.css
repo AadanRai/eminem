@@ -35,7 +35,12 @@
 .margintop50px {
     margin-top: 50px;
 }
-
+.margintop5px {
+    margin-top: 5px;
+}
+.margintop10px{
+    margin-top: 10px;
+}
 .marginright20px{
     margin-right: 20px;
 }
@@ -43,11 +48,36 @@
 .margin20px{
     margin: 20px;
 }
-
+.margintopbottom10px{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.marginleftright15px{
+    margin-left: 15px;
+    margin-right: 15px;
+}
 .marginright100px{
     margin-right: 100px;
 }
 
 .backgroundaqua{
     background-color: aqua;
+}
+.backgroundblue{
+    background-color: blue;
+}
+.backgroundgreen{
+    background-color: green;
+}
+.backgroundyellow{
+    background-color: yellow;
+}
+.backgroundred{
+    background-color: red;
+}
+.textunderline {
+    text-decoration: underline;
+}
+.padding5px{
+    padding: 5px;
 }
