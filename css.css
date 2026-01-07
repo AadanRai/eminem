@@ -1,0 +1,28 @@
+.div200px{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border-radius: 80px 100px;
+}
+.img200px{
+    height: 200px;
+    width: 200px;
+}
+.borderslim{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.boxshadow{
+    box-shadow: 5px 5px 10px black;
+}
+/* .backgroundrepeat{
+    background-size: 100px,60px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Official_portrait_of_Barack_Obama-2.jpg/960px-Official_portrait_of_Barack_Obama-2.jpg'), url('https://whitehauscollection.com/cdn/shop/products/WHMFL3364-EB_5_1200x.jpg?v=1666210351') ;
+    background-repeat: no-repeat, repeat;
+    background-position: right;
+} */
+.backgroundgradient{
+    background: linear-gradient(rgba(255, 0, 0, 1), rgba(0, 0, 255, 0.5));
+    background-repeat: repeat;
+    background-size: 100px 60px;
+}

@@ -1,12 +1,13 @@
-header > div:first-child{padding:4%; background:blue; width:35%; float: left;}
-header > div:nth-child(2){padding: 4%; background:green; width: 35%; float: right;}
+header > div:first-child{padding:4%; background:blue; width:42%;float: left;}
+header > div:nth-child(2){padding:4%; background:green; width:42%;float: left;}
+header > div:nth-child(3){padding: 4%; background:green; width: 35%;float: left;}
 header > div:nth-child(3){padding:4%; background-color: red; width: 100%; clear: both; overflow: hidden;}
 header > div:nth-child(3) > div:first-child{padding:2%; background: yellow; width:15%; margin-right: 5%; float: left;}
 header > div:nth-child(3) > div:nth-child(2){padding:2%; background: yellow; width:15%; margin-right: 5%; float: left;}
 header > div:nth-child(3) > div:nth-child(3){padding:2%; background: yellow; width:15%; margin-right: 5%; float: left;}
 header > div:nth-child(3) > div:nth-child(4){padding:2%; background: yellow; width:15%; margin-right: 5%; float: left;}
-header > div:nth-child(4){padding: 4%; background-color: blue; width: 35%; float: left;}
-header > div:nth-child(5){padding: 4%; background-color: green; width: 35%; float: right;}
+header > div:nth-child(4){padding: 4%; background-color: blue; width: 42%; float: left;}
+header > div:nth-child(5){padding: 4%; background-color: green; width: 42%; float: left;}
 footer{padding: 4%; background-color: yellow; width: 100%; float: left; clear: both; overflow: hidden;}
 .clear{
     clear: both;

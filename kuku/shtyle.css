@@ -1,0 +1,40 @@
+body {
+    margin: 10%;
+    width: 80%;
+}
+
+nav {
+    background-color: blue;
+    padding: 4%;
+}
+
+section {
+    overflow: hidden;
+}
+
+section aside {
+    float: left;
+    width: 10%;
+    background-color: grey;
+    padding: 14%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+section div {
+    float: left;
+    width: 32.25%;
+    background-color: red;
+    padding: 14%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: bisque;
+}
+
+.clear {
+    clear: both
+}
